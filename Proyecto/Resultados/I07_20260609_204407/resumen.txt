@@ -1,0 +1,12 @@
+
+--- RESULTADO FINAL ---
+Instancia: I07
+Generaciones: 2000 | Partículas: 1
+Tiempo total de ejecución: 2.4323 segundos
+Total de soluciones irreparables (infactibles): 706
+Total de soluciones evaluadas como factibles: 1294
+Total de evaluaciones: 2000
+Beneficio Encontrado: 23236.0
+¿Es una solución válida?: Sí
+Ítems seleccionados por grupo (índices): 
+[7, 4, 1, 3, 5, 7, 9, 2, 2, 4, 7, 2, 8, 3, 7, 9, 9, 8, 8, 7, 3, 6, 9, 4, 6, 8, 5, 1, 4, 5, 9, 8, 9, 8, 9, 9, 5, 1, 4, 7, 0, 7, 2, 4, 7, 3, 7, 9, 6, 9, 9, 3, 9, 9, 9, 7, 8, 9, 9, 6, 6, 5, 4, 5, 2, 3, 9, 9, 6, 9, 9, 0, 8, 8, 8, 7, 0, 2, 2, 7, 7, 9, 3, 4, 5, 6, 3, 9, 7, 6, 6, 0, 2, 7, 2, 9, 5, 7, 8, 7]

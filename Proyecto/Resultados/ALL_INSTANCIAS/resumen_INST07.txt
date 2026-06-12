@@ -1,0 +1,17 @@
+--- RESUMEN DE LA INSTANCIA: INST07 ---
+Archivos analizados: 1 (INST07.txt)
+Ejecuciones: 5
+
+--- ESTADÍSTICAS DEL BENEFICIO ---
+Mejor Beneficio Encontrado: 15985.0
+Peor Beneficio Encontrado: 15916.0
+Media del Beneficio: 15944.00
+Desviación Estándar: 27.34
+
+--- OTRAS MÉTRICAS PROMEDIO ---
+Tiempo de ejecución medio: 138.3882 segundos
+Soluciones Factibles exploradas (media): 14879.6
+Soluciones Infactibles exploradas (media): 35120.4
+
+Mejor Solución Global Encontrada (índices):
+[7, 3, 0, 2, 6, 7, 1, 2, 1, 7, 4, 1, 9, 4, 0, 3, 2, 7, 2, 5, 5, 0, 1, 1, 5, 0, 2, 8, 2, 9, 4, 3, 1, 6, 4, 8, 0, 4, 1, 1, 5, 0, 3, 7, 1, 7, 6, 0, 9, 0, 7, 2, 4, 1, 6, 4, 6, 2, 0, 3, 1, 4, 2, 7, 5, 5, 1, 2, 1, 5, 8, 5, 8, 3, 3, 8, 9, 5, 0, 5]

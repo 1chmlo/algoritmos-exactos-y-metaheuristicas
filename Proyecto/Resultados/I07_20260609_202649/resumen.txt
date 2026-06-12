@@ -1,0 +1,12 @@
+
+--- RESULTADO FINAL ---
+Instancia: I07
+Generaciones: 2000 | Partículas: 25
+Tiempo total de ejecución: 0.0155 segundos
+Total de soluciones irreparables (infactibles): 50000
+Total de soluciones evaluadas como factibles: 0
+Total de evaluaciones: 50000
+Beneficio Encontrado: 0
+¿Es una solución válida?: No
+Ítems seleccionados por grupo (índices): 
+None

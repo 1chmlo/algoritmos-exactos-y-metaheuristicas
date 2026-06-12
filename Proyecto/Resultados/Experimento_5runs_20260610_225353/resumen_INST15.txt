@@ -1,0 +1,17 @@
+--- RESUMEN DE LA INSTANCIA: INST15 ---
+Archivos analizados: 1 (INST15.txt)
+Ejecuciones: 5
+
+--- ESTADÍSTICAS DEL BENEFICIO ---
+Mejor Beneficio Encontrado: 37404.0
+Peor Beneficio Encontrado: 37222.0
+Media del Beneficio: 37325.60
+Desviación Estándar: 71.21
+
+--- OTRAS MÉTRICAS PROMEDIO ---
+Tiempo de ejecución medio: 229.7354 segundos
+Soluciones Factibles exploradas (media): 45831.2
+Soluciones Infactibles exploradas (media): 4168.8
+
+Mejor Solución Global Encontrada (índices):
+[21, 18, 23, 22, 3, 6, 19, 18, 15, 3, 4, 27, 8, 2, 20, 14, 26, 27, 5, 17, 21, 16, 24, 3, 26, 1, 0, 26, 1, 3, 15, 10, 23, 17, 27, 24, 2, 27, 4, 24, 2, 14, 27, 7, 25, 25, 15, 25, 28, 23, 7, 4, 22, 26, 27, 10, 24, 17, 17, 20, 25, 9, 26, 22, 21, 16, 1, 24, 6, 8, 17, 1, 4, 28, 4, 5, 19, 3, 22, 14, 26, 2, 20, 15, 3, 12, 27, 6, 19, 27, 15, 16, 1, 7, 7, 28, 8, 3, 4, 12, 26, 3, 12, 4, 0, 12, 2, 0, 17, 4, 1, 2, 3, 9, 28, 10, 19, 14, 10, 0, 6, 4, 11, 12, 28, 23, 2, 0, 27, 23, 22, 15, 0, 7, 16, 18, 22, 19, 8, 20, 8, 5, 8, 8, 26, 15, 21, 23, 28, 22, 3, 24, 17, 27, 1, 13, 0, 14, 28, 27, 10, 25, 12, 5, 13, 19, 7, 21, 27, 12, 20, 21, 20, 29, 27, 14, 21, 22, 11, 28]

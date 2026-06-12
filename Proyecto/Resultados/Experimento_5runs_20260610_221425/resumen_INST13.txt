@@ -1,0 +1,17 @@
+--- RESUMEN DE LA INSTANCIA: INST13 ---
+Archivos analizados: 1 (INST13.txt)
+Ejecuciones: 5
+
+--- ESTADÍSTICAS DEL BENEFICIO ---
+Mejor Beneficio Encontrado: 20840.0
+Peor Beneficio Encontrado: 20777.0
+Media del Beneficio: 20804.00
+Desviación Estándar: 26.73
+
+--- OTRAS MÉTRICAS PROMEDIO ---
+Tiempo de ejecución medio: 88.9734 segundos
+Soluciones Factibles exploradas (media): 48410.2
+Soluciones Infactibles exploradas (media): 1589.8
+
+Mejor Solución Global Encontrada (índices):
+[21, 17, 23, 19, 16, 3, 5, 15, 15, 3, 14, 7, 21, 1, 22, 5, 0, 9, 11, 18, 28, 2, 3, 17, 0, 3, 6, 6, 15, 20, 21, 19, 8, 25, 25, 6, 2, 17, 5, 24, 3, 11, 14, 16, 25, 16, 12, 24, 15, 17, 7, 25, 17, 6, 8, 9, 18, 23, 22, 4, 4, 11, 7, 26, 4, 23, 24, 23, 21, 10, 17, 14, 11, 11, 11, 1, 12, 3, 19, 10, 15, 16, 28, 25, 21, 8, 24, 2, 25, 18, 13, 14, 1, 18, 11, 4, 21, 11, 5, 1]
