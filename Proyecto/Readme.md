@@ -1,4 +1,4 @@
-#Proyecto AEM: Simplified Swarm Optimisation (SSO) aplicado en MMKP.
+# Proyecto AEM: Simplified Swarm Optimisation (SSO) aplicado en MMKP.
 
 Integrantes: Camilo Ríos, Maximiliano Juárez.
 Fecha: Junio 2026.
