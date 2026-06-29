@@ -1,0 +1,5 @@
+Instancia,Tiempo_Promedio_s,Beneficio_Maximo,Beneficio_Minimo,Beneficio_Promedio,Desviacion_Estandar
+easy,0.000791,9868,9868,9868.00,0.0000
+medium1,0.003405,6793,6793,6793.00,0.0000
+medium2,0.003394,9833,9833,9833.00,0.0000
+hard,0.024901,6888,6888,6888.00,0.0000
