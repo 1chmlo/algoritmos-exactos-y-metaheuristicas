@@ -175,6 +175,7 @@ def simulated_annealing(m, B, beneficios, costos, recursos_requeridos, T_inicial
             else:
                 #se acepta con probabilidad e^(delta/T)
                 prob = math.exp(delta / T)
+                print(f"Iteración {iteracion}: delta = {delta}, T = {T:.4f}, probabilidad de aceptación = {prob:.4f}")
                 if random.random() < prob:
                     solucion_actual  = vecino
                     beneficio_actual = beneficio_vecino
@@ -189,7 +190,7 @@ def simulated_annealing(m, B, beneficios, costos, recursos_requeridos, T_inicial
 
 
 
-ruta = 'instancias/easy.txt'
+ruta = 'instancias/hard.txt'
 m, n, B, beneficios, costos, recursos_requeridos = leer_instancia(ruta)
 
 print("=" * 55)
@@ -224,7 +225,7 @@ plt.plot(hist_actual, color='steelblue', alpha=0.5, linewidth=0.8, label='Soluci
 plt.plot(hist_mejor,  color='crimson',   linewidth=1.5, label='Mejor solución')
 plt.xlabel('Iteraciones')
 plt.ylabel('Beneficio (FO)')
-plt.title('Simulated Annealing — Convergencia (easy.txt)')
+plt.title(f'Simulated Annealing — Convergencia ({ruta.split("/")[-1]})')
 plt.legend()
 plt.tight_layout()
 plt.savefig('convergencia_SA.png', dpi=150)
